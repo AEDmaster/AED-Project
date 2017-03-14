@@ -8,5 +8,6 @@ public class Main {
         BinaryTree binaryTree = new BinaryTree(oi);
         BinaryTree.switchNodes(binaryTree, binaryTree.left, binaryTree.right, binaryTree.right.left);
         System.out.println(binaryTree.toString());
+        System.out.println("Ola bom dia");
     }
 }
