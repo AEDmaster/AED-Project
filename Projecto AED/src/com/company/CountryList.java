@@ -6,6 +6,7 @@ package com.company;
 public class CountryList {
     String CountryName;
     String CountryCode;
+    CountryList next;
     YearDataStructure yearDataStructure;
 
 }
