@@ -20,7 +20,6 @@ public class BinaryTree {
         this.right = null;
         this.setHeight(1);
         this.setBalancingFactor(0);
-        System.out.println("ola");
     }
 
     //Creates a tree from the first value of the "values" array and inserts the remaining values afterwards.
