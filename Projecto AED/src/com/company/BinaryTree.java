@@ -6,7 +6,7 @@ import java.util.Arrays;
 /**
  * Created by lamec on 3/7/2017.
  */
-public class BinaryTree {
+public class BinaryTree extends YearDataStructure{
     public BinaryTree left;
     public BinaryTree right;
     private int value;
