@@ -1,9 +1,12 @@
 package com.company;
 
 
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 import java.io.*;
 import java.util.ArrayList;
 
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 public class Main {
 
     public static void main(String[] args) {
@@ -16,6 +19,8 @@ public class Main {
 
         BinaryTree binaryTree = new BinaryTree(RL);
         System.out.println(binaryTree.toString());
+
+
     }
 
     public static void writeValues(ArrayList<ArrayList<String>> lista) throws UnsupportedEncodingException {

@@ -22,12 +22,16 @@
       <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 90f9fb4174d97428abb51dd31e904171aaf787e4
 <<<<<<< 087015eb77f906b85d6f29d75bb87907d0bf41ba
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
 =======
 >>>>>>> no message
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
             <state relative-caret-position="567">
               <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
               <folding />
@@ -79,9 +83,12 @@
               <folding />
 =======
             <state relative-caret-position="7749">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
             <state relative-caret-position="27">
 >>>>>>> no message
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
               <caret line="291" column="40" lean-forward="false" selection-start-line="291" selection-start-column="40" selection-end-line="291" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -108,8 +115,12 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
             <state relative-caret-position="324">
 <<<<<<< 087015eb77f906b85d6f29d75bb87907d0bf41ba
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -117,9 +128,12 @@
             <state relative-caret-position="351">
               <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
               <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
 >>>>>>> no message
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
               <folding />
 =======
             <state relative-caret-position="513">
@@ -159,6 +173,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/YearDataStructure.java" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 087015eb77f906b85d6f29d75bb87907d0bf41ba
         <option value="$PROJECT_DIR$/src/com/company/CountryList.java" />
         <option value="$PROJECT_DIR$/src/com/company/DataStructure.java" />
@@ -175,6 +190,18 @@
         <option value="$PROJECT_DIR$/src/com/company/CountryList.java" />
         <option value="$PROJECT_DIR$/src/com/company/BinaryTree.java" />
 >>>>>>> no message
+=======
+        <option value="$PROJECT_DIR$/src/com/company/CountryList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/DataStructure.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MainLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/InformationType.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CountryNode.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ElectricityInformation.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       </list>
     </option>
   </component>
@@ -206,6 +233,7 @@
     </navigator>
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
     <panes>
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
 =======
       <pane id="Scope" />
@@ -214,6 +242,15 @@
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 =======
 >>>>>>> no message
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,9 +283,17 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+      <pane id="Scope" />
+=======
+      <pane id="PackagesPane" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
     </panes>
 =======
     <panes />
@@ -671,7 +716,11 @@
       <created>1489534207344</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       <updated>1489525898707</updated>
       <workItem from="1489525899961" duration="249000" />
       <workItem from="1489527994663" duration="97000" />
@@ -707,11 +756,21 @@
 =======
       <workItem from="1489531923386" duration="1681000" />
 >>>>>>> no message
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 >>>>>>> no message
+=======
+=======
+      <updated>1489534207344</updated>
+      <workItem from="1489534211918" duration="13578000" />
+      <workItem from="1489679888869" duration="4560000" />
+      <workItem from="1489757588509" duration="16941000" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 90f9fb4174d97428abb51dd31e904171aaf787e4
 <<<<<<< 087015eb77f906b85d6f29d75bb87907d0bf41ba
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
@@ -719,6 +778,9 @@
 <<<<<<< d4db3688b97a97f959af6305ec2d535b4046f686
     <option name="totallyTimeSpent" value="1889000" />
 =======
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 <<<<<<< 940fb2158ae39448e4848b002209c7a16352f383
     <option name="totallyTimeSpent" value="1885000" />
 >>>>>>> no message
@@ -758,15 +820,19 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 =======
     <option name="totallyTimeSpent" value="35079000" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
     <option name="totallyTimeSpent" value="36089000" />
 >>>>>>> no message
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -789,12 +855,26 @@
 =======
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 >>>>>>> no message
+=======
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
 <<<<<<< 087015eb77f906b85d6f29d75bb87907d0bf41ba
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -810,6 +890,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
 >>>>>>> no message
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -817,6 +898,10 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
 =======
+=======
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
 >>>>>>> no message
@@ -825,7 +910,11 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39961514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
 >>>>>>> no message
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -835,10 +924,14 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33162284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -870,7 +963,11 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
     </layout>
 =======
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -903,8 +1000,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="297">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="22" />
           <folding />
@@ -1014,9 +1115,31 @@
         <state relative-caret-position="187">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="22" />
           <folding />
+=======
+        <state relative-caret-position="8613">
+          <caret line="319" column="5" lean-forward="false" selection-start-line="319" selection-start-column="5" selection-end-line="319" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9557#9558#0" expanded="true" />
+            <element signature="e#9595#9596#0" expanded="true" />
+            <element signature="e#9731#9732#0" expanded="true" />
+            <element signature="e#9785#9786#0" expanded="true" />
+            <element signature="e#9816#9817#0" expanded="true" />
+            <element signature="e#9878#9879#0" expanded="true" />
+            <element signature="e#9912#9913#0" expanded="true" />
+            <element signature="e#9949#9950#0" expanded="true" />
+            <element signature="e#9984#9985#0" expanded="true" />
+            <element signature="e#10022#10023#0" expanded="true" />
+            <element signature="e#10071#10072#0" expanded="true" />
+            <element signature="e#10114#10115#0" expanded="true" />
+            <element signature="e#10164#10165#0" expanded="true" />
+            <element signature="e#10208#10209#0" expanded="true" />
+          </folding>
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         </state>
       </provider>
     </entry>
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
     <entry file="file://$PROJECT_DIR$/src/com/company/CountryList.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/YearDataStructure.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1077,6 +1200,17 @@
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
         <state relative-caret-position="187">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="22" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding />
 =======
 =======
@@ -1104,6 +1238,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
     <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
@@ -1123,32 +1258,50 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/CountryNode.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/CountryNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="85">
           <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding />
 =======
         <state relative-caret-position="189">
           <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding>
             <element signature="e#230#231#0" expanded="true" />
             <element signature="e#254#255#0" expanded="true" />
           </folding>
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
 >>>>>>> no message
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/DataStructure.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="102">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
 =======
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding />
 =======
@@ -1158,13 +1311,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
 =======
         <state relative-caret-position="270">
           <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding />
 =======
@@ -1178,7 +1338,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="1134">
           <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
           <folding />
@@ -1208,13 +1372,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 =======
         <state relative-caret-position="270">
           <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding />
 =======
@@ -1230,7 +1401,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding />
 =======
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
@@ -1239,13 +1414,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="135">
           <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
 =======
         <state relative-caret-position="162">
           <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding />
 =======
@@ -1255,39 +1437,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/InformationType.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="3267">
           <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
           <folding />
 =======
         <state relative-caret-position="216">
           <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding>
             <element signature="e#133#134#0" expanded="true" />
             <element signature="e#157#158#0" expanded="true" />
           </folding>
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
 >>>>>>> no message
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
+=======
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
 =======
         <state relative-caret-position="243">
           <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding>
             <element signature="e#267#268#0" expanded="true" />
             <element signature="e#344#345#0" expanded="true" />
           </folding>
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
 >>>>>>> no message
         </state>
@@ -1302,13 +1502,24 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/YearDataStructure.java">
       <provider selected="true" editor-type-id="text-editor">
 >>>>>>> no message
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ElectricityInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         <state relative-caret-position="135">
           <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding />
 =======
         <state relative-caret-position="324">
           <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding>
             <element signature="e#243#244#0" expanded="true" />
             <element signature="e#287#288#0" expanded="true" />
@@ -1316,6 +1527,7 @@
             <element signature="e#366#367#0" expanded="true" />
           </folding>
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
 >>>>>>> no message
         </state>
@@ -1340,16 +1552,31 @@
 >>>>>>> no message
 =======
     <entry file="file://$PROJECT_DIR$/src/com/company/MainLinkedList.java">
+=======
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/DataStructure.java">
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
         <state relative-caret-position="162">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 >>>>>>> no message
+=======
+=======
+        <state relative-caret-position="135">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding />
 =======
 >>>>>>> no message
         </state>
       </provider>
     </entry>
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 90f9fb4174d97428abb51dd31e904171aaf787e4
     <entry file="file://$PROJECT_DIR$/src/com/company/CountryNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1357,7 +1584,11 @@
 <<<<<<< d4db3688b97a97f959af6305ec2d535b4046f686
 =======
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/CountryNode.java">
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
 <<<<<<< 940fb2158ae39448e4848b002209c7a16352f383
 >>>>>>> no message
         <state relative-caret-position="162">
@@ -1370,18 +1601,27 @@
 =======
         <state relative-caret-position="54">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding>
             <element signature="e#230#231#0" expanded="true" />
             <element signature="e#254#255#0" expanded="true" />
           </folding>
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
 >>>>>>> no message
         </state>
       </provider>
     </entry>
 <<<<<<< 90f9fb4174d97428abb51dd31e904171aaf787e4
+=======
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
     <entry file="uml://JAVA/com.company.BinaryTree">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1398,7 +1638,11 @@
           </nodes>
           <notes />
           <edges />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
           <settings layout="Hierarchic Group" zoom="1.0" x="599.0" y="376.0" />
+=======
+          <settings layout="Hierarchic Group" zoom="1.0" x="599.0" y="375.5" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1406,6 +1650,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 9bbae2e1bce946b3e99e98e3ad0e9eb7dc4cce2e
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1418,14 +1663,26 @@
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 =======
     <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
         <state relative-caret-position="567">
           <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 >>>>>>> no message
+=======
+=======
+        <state relative-caret-position="351">
+          <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 <<<<<<< 087015eb77f906b85d6f29d75bb87907d0bf41ba
     <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1433,6 +1690,11 @@
 <<<<<<< a72364b3a710d203c5849d291cae141cb23542b1
 <<<<<<< d4db3688b97a97f959af6305ec2d535b4046f686
 =======
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 <<<<<<< 940fb2158ae39448e4848b002209c7a16352f383
 >>>>>>> no message
         <state relative-caret-position="162">
@@ -1454,11 +1716,14 @@
           <folding />
 =======
         <state relative-caret-position="7749">
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 =======
     <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
 >>>>>>> no message
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
           <caret line="291" column="40" lean-forward="false" selection-start-line="291" selection-start-column="40" selection-end-line="291" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1478,6 +1743,7 @@
             <element signature="e#10208#10209#0" expanded="true" />
           </folding>
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+<<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
         </state>
       </provider>
     </entry>
@@ -1489,6 +1755,8 @@
             <element signature="imports" expanded="true" />
             <element signature="e#1359#1378#0" expanded="true" />
           </folding>
+=======
+>>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
         </state>
       </provider>
     </entry>
