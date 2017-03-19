@@ -1,6 +1,7 @@
 package com.company;
 
 
+<<<<<<< HEAD
 <<<<<<< b0a032290b1302496096df14a414cb6e44e66031
 <<<<<<< f3b1064a555a12f357a5ba75e38487cbb1e0ca94
 import java.io.*;
@@ -13,6 +14,11 @@ import java.io.*;
 import java.util.ArrayList;
 
 >>>>>>> (Tiago) Funções de leitura e escrita no ficheiro
+=======
+import java.io.*;
+import java.util.ArrayList;
+
+>>>>>>> 02c5b8b21e07c5f94facb52962a2a821ffe6867c
 public class Main {
 
     public static void main(String[] args) {
@@ -71,6 +77,7 @@ public class Main {
         }
         return novo;
     }
+<<<<<<< HEAD
 
     public static void writeValues(ArrayList<ArrayList<String>> lista) throws UnsupportedEncodingException {
         try{
@@ -116,4 +123,6 @@ public class Main {
         }
         return novo;
     }
+=======
+>>>>>>> 02c5b8b21e07c5f94facb52962a2a821ffe6867c
 }
