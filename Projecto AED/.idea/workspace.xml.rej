@@ -1,0 +1,35 @@
+diff a/Projecto AED/.idea/workspace.xml b/Projecto AED/.idea/workspace.xml	(rejected hunks)
+@@ -31,28 +31,33 @@
+        <file leaf-file-name="CountryList.java" pinned="false" current-in-tab="true">
+          <entry file="file://$PROJECT_DIR$/src/com/company/CountryList.java">
+            <provider selected="true" editor-type-id="text-editor">
+++<<<<<<< d4db3688b97a97f959af6305ec2d535b4046f686
+ +            <state relative-caret-position="162">
+ +              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+ +              <folding />
+ +            </state>
+ +          </provider>
+ +        </entry>
+ +      </file>
+ +      <file leaf-file-name="YearDataStructure.java" pinned="false" current-in-tab="false">
+ +        <entry file="file://$PROJECT_DIR$/src/com/company/YearDataStructure.java">
+ +          <provider selected="true" editor-type-id="text-editor">
+ +            <state relative-caret-position="135">
+ +              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+ +              <folding />
+ +            </state>
+ +          </provider>
+ +        </entry>
+ +      </file>
+ +      <file leaf-file-name="MainLinkedList.java" pinned="false" current-in-tab="false">
+ +        <entry file="file://$PROJECT_DIR$/src/com/company/MainLinkedList.java">
+ +          <provider selected="true" editor-type-id="text-editor">
+ +            <state relative-caret-position="162">
+ +              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+++=======
++             <state relative-caret-position="189">
++               <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+++>>>>>>> no message
+                <folding />
+              </state>
+            </provider>
