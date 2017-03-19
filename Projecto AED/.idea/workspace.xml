@@ -22,6 +22,7 @@
       <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
 <<<<<<< 4127fd933c3fb607ad9d77bc464b83406164fe52
 <<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
@@ -66,6 +67,10 @@
             <state relative-caret-position="54">
               <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
 >>>>>>> no message
+=======
+            <state relative-caret-position="54">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
               <folding />
 =======
             <state relative-caret-position="7749">
@@ -101,6 +106,7 @@
 <<<<<<< 4127fd933c3fb607ad9d77bc464b83406164fe52
 <<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
             <state relative-caret-position="324">
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
 =======
@@ -110,6 +116,9 @@
 =======
               <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
 >>>>>>> no message
+=======
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
               <folding />
 =======
             <state relative-caret-position="513">
@@ -149,6 +158,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/YearDataStructure.java" />
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
         <option value="$PROJECT_DIR$/src/com/company/CountryList.java" />
         <option value="$PROJECT_DIR$/src/com/company/DataStructure.java" />
@@ -165,6 +175,11 @@
         <option value="$PROJECT_DIR$/src/com/company/CountryList.java" />
         <option value="$PROJECT_DIR$/src/com/company/BinaryTree.java" />
 >>>>>>> no message
+=======
+        <option value="$PROJECT_DIR$/src/com/company/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CountryList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BinaryTree.java" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
       </list>
     </option>
   </component>
@@ -198,6 +213,7 @@
     <panes>
 <<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
       <pane id="Scratches" />
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
       <pane id="PackagesPane" />
 =======
@@ -206,6 +222,8 @@
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 =======
 >>>>>>> no message
+=======
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,11 +256,15 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
 <<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
 =======
       <pane id="PackagesPane" />
 >>>>>>> no message
+=======
+      <pane id="PackagesPane" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
       <pane id="Scope" />
 =======
       <pane id="PackagesPane" />
@@ -677,6 +699,7 @@
 <<<<<<< 940fb2158ae39448e4848b002209c7a16352f383
       <workItem from="1489531923386" duration="1109000" />
       <workItem from="1489942753372" duration="7000" />
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
 =======
       <workItem from="1489531923386" duration="1681000" />
@@ -696,10 +719,15 @@
       <workItem from="1489943026326" duration="4000" />
       <workItem from="1489943070792" duration="780000" />
 >>>>>>> no message
+=======
+      <workItem from="1489943026326" duration="4000" />
+      <workItem from="1489943070792" duration="780000" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
 <<<<<<< 4127fd933c3fb607ad9d77bc464b83406164fe52
 <<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
@@ -722,6 +750,13 @@
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
     <editor active="true" />
 >>>>>>> no message
+=======
+    <option name="totallyTimeSpent" value="2669000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
+    <editor active="true" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -737,6 +772,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 =======
@@ -772,6 +808,9 @@
 =======
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 >>>>>>> no message
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926901" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -779,6 +818,7 @@
 <<<<<<< 4127fd933c3fb607ad9d77bc464b83406164fe52
 <<<<<<< f9e95d96b00061fd8cf8a0883d01cc7f92b31841
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
 =======
@@ -803,6 +843,10 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
 >>>>>>> no message
+=======
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
 =======
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39961514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -958,12 +1002,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
 <<<<<<< 4127fd933c3fb607ad9d77bc464b83406164fe52
         <state relative-caret-position="187">
 =======
         <state relative-caret-position="297">
 >>>>>>> no message
+=======
+        <state relative-caret-position="297">
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="22" />
           <folding />
 =======
@@ -992,6 +1040,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
     <entry file="file://$PROJECT_DIR$/src/com/company/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1003,6 +1052,12 @@
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
 <<<<<<< 4127fd933c3fb607ad9d77bc464b83406164fe52
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/CountryList.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/YearDataStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
 =======
     <entry file="file://$PROJECT_DIR$/src/com/company/CountryList.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/YearDataStructure.java">
@@ -1025,6 +1080,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CountryList.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/YearDataStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
+    <entry file="file://$PROJECT_DIR$/src/com/company/MainLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+<<<<<<< HEAD
 >>>>>>> no message
           <folding />
 =======
@@ -1038,6 +1131,15 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
+=======
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
@@ -1251,6 +1353,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
     <entry file="file://$PROJECT_DIR$/src/com/company/ElectricityInformation.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1285,11 +1388,16 @@
 <<<<<<< 4127fd933c3fb607ad9d77bc464b83406164fe52
 >>>>>>> Mudanças grandes em todas as estruturas e na forma como o projecto está organizado em geral
 =======
+=======
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+<<<<<<< HEAD
 >>>>>>> no message
+=======
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
           <folding />
 =======
 >>>>>>> no message
@@ -1359,6 +1467,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< fc7c595fa82c4d836e91bda24a6d98d8f203f40f
     <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1377,6 +1486,13 @@
         <state relative-caret-position="54">
           <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
 >>>>>>> no message
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/company/CountryList.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+>>>>>>> ea468ae9a7c5d850d6940a2c0bdf6b6f4400c6fa
           <folding />
 =======
         <state relative-caret-position="7749">
