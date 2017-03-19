@@ -1,12 +1,19 @@
 package com.company;
 
+
 public class Main {
 
     public static void main(String[] args) {
-        int[] oi = {3, 2, 1, 5, 4, 6, 7};
-        //int[] oi = {17, 5, 35, 2, 11, 29, 38, 9, 16, 7, 8};
-        BinaryTree binaryTree = new BinaryTree(oi);
-        BinaryTree.switchNodes(binaryTree, binaryTree.left, binaryTree.right, binaryTree.right.left);
+        double[] LL = {10,13,5,17,4,6,3,2};
+        double[] RR = {10,13,5,17,4,6,7,8};
+        double[] LR = {10,13,5,17,4,6,2,3};
+        double[] RL = {10,13,5,17,4,6,8,7};
+        double[] test = {17,5,2,11,9,16,7,8,35,29,38};
+        double[] test1 = {5,3,4};
+
+        BinaryTree binaryTree = new BinaryTree(RL);
         System.out.println(binaryTree.toString());
+
+
     }
 }
